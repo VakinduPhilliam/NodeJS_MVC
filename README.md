@@ -1,6 +1,6 @@
 # Node.js_MVC
  These scripts explore Node.js and MCV (Model-View-Controller) pairing. 
  
- With Example Apps.
+ The script includes Example Apps with the most popular web frameworks.
  
  Compiled and presented by Vakindu Philliam.
